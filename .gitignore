@@ -75,3 +75,8 @@ DerivedDataCache/*
 
 # UE4 Starter content
 Content/StarterContent/*
+
+# Temp Addon
+Content/MultistoryDungeons/*
+Content/~$er Manual_UE4_1.0.docx
+Content/~WRL0005.tmp
